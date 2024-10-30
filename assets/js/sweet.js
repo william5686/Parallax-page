@@ -1,8 +1,8 @@
 function section1() {
 
     Swal.fire({
-        title: "Good job!",
-        text: "You clicked the button!",
+        title: "Bienvenida",
+        text: "Hola Mile de mi amor, eres la cachaca mas hermosa :3",
         icon: "success"
     });
 }
