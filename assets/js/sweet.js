@@ -2,7 +2,7 @@ function section1() {
 
     Swal.fire({
         title: "Bienvenida",
-        text: "Hola Mile de mi amor, eres la cachaca mas hermosa :3",
+        text: "Hola Mi Cata, eres la reina de mi corazon",
         icon: "success"
     });
 }
